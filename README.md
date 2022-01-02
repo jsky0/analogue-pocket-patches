@@ -1,6 +1,6 @@
 # analogue-pocket-patches
 ## Instructions
-See [JoseJX's README] (https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md)
+See [JoseJX's README](https://github.com/JoseJX/analogue-pocket-patches/blob/main/README.md)
 
 ## Patches
 
