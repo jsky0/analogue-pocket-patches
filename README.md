@@ -4,15 +4,18 @@ See [JoseJX's README](https://github.com/JoseJX/analogue-pocket-patches/blob/mai
 
 ## Patches
 
-### Cave Noire (JP)
+### Cave Noire (J)
+- Cave Noire (J) MD5: 10d92861e262069ce31559e12b927aa0
 
-Cave Noire (J) MD5: 10d92861e262069ce31559e12b927aa0
-
-#### Patches
 - https://github.com/jsky0/analogue-pocket-patches/blob/main/cave_noire.ips
 
 - https://github.com/jsky0/analogue-pocket-patches/blob/main/cave_noire_aeon_genesis_translation.ips
     - Additionally applies Aeon Genesis's [translation patch](https://www.romhacking.net/translations/1707/)
+
+### Micro Machines (U,E)
+- Micro Machines (U,E) MD5: 0631158ead23bfed84cd3a5010eb9295
+
+- https://github.com/jsky0/analogue-pocket-patches/blob/main/micro_machines.ips
 
 ## Acknowledgements
 - [JoseJX](https://github.com/JoseJX/analogue-pocket-patches)
