@@ -23,6 +23,11 @@ See [JoseJX's README](https://github.com/JoseJX/analogue-pocket-patches/blob/mai
 
 - https://github.com/jsky0/analogue-pocket-patches/blob/main/micro_machines.ips
 
+### Micro Machines 1 and 2 - Twin Turbo (U,E)
+- MD5: a721520df37c636ed924dbc268cdd753
+
+- https://github.com/jsky0/analogue-pocket-patches/blob/main/micro1n2.ips
+
 ## Acknowledgements
 - [JoseJX](https://github.com/JoseJX/analogue-pocket-patches)
 - [Infinest](https://github.com/jduckett95/infinest-pocket-patches)
