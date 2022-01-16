@@ -16,18 +16,22 @@ See [JoseJX's README](https://github.com/JoseJX/analogue-pocket-patches/blob/mai
 - Last updated: 1/13/22 20:46 UTC
 - MD5: 69a6ebc942c7d0ecef2e514989debde6
 
-- https://github.com/jsky0/analogue-pocket-patches/blob/main/f1_world_grand_prix_ii_for_gbc.ips
+- https://github.com/jsky0/analogue-pocket-patches/raw/main/f1_world_grand_prix_ii_for_gbc.ips
 
 ### Micro Machines (U,E)
 - MD5: 0631158ead23bfed84cd3a5010eb9295
 
-- https://github.com/jsky0/analogue-pocket-patches/blob/main/micro_machines.ips
+- https://github.com/jsky0/analogue-pocket-patches/raw/main/micro_machines.ips
 
 ### Micro Machines 1 and 2 - Twin Turbo (U,E)
 - MD5: a721520df37c636ed924dbc268cdd753
 
-- https://github.com/jsky0/analogue-pocket-patches/blob/main/micro1n2.ips
+- https://github.com/jsky0/analogue-pocket-patches/raw/main/micro1n2.ips
 
+### NHL Blades of Steel (U)
+- MD5: 39f214540d2042865211e07c0536cc14
+
+- https://github.com/jsky0/analogue-pocket-patches/raw/main/nhl_blades_of_steel_gbc.ips
 ## Acknowledgements
 - [JoseJX](https://github.com/JoseJX/analogue-pocket-patches)
 - [Infinest](https://github.com/jduckett95/infinest-pocket-patches)
